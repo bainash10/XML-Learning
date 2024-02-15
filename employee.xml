@@ -1,0 +1,28 @@
+<employees>
+    <employee id='be124'>
+        <firstname>John</firstname>
+        <lastname>Styles</lastname>
+        <title>Engineer</title>
+        <division>Materials</division>
+        <building>327</building>
+        <room>19</room>
+    </employee>
+
+    <employee id='be125'>
+        <firstname>Nischal</firstname>
+        <lastname>Baidar</lastname>
+        <title>Student</title>
+        <division>Computer</division>
+        <building>320</building>
+        <room>1</room>
+    </employee>
+
+    <employee id='be126'>
+        <firstname>Amit</firstname>
+        <lastname>Karem</lastname>
+        <title>Student</title>
+        <division>Computer</division>
+        <building>320</building>
+        <room>21</room>
+    </employee>
+</employees>

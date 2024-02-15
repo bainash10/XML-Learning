@@ -1,0 +1,45 @@
+#What is XML?
+-Extensible Markup Language
+-Designed to send, store, receive and display data
+-Platform and Programming Language Independent
+-Unlike HTML, XML doesnot have predefined tags
+-XML provides framework to define markup Language
+-Case Sensitive
+-Xml was designed to be both machine and human readable format
+-Extensible Markup Language (XML) is a markup language that provides rules to define any data.
+
+#Rules for XML:
+-There is only one root tag
+-Xml is case Sensitive
+-Every Opening tag needs a closing tag
+-Every attribute value is inside double quote
+
+#Two Types of XML
+1. Structured (DTD-Document Type Definition)
+2. Content (XSD- XML Schema Definition)
+
+#Features of XML
+-Extensible and human readable
+-Preserves white spaces
+-Simple
+-Separates data from HTML
+-Undefined tags
+-XML was designed to carry data
+-Well structured format
+-Self Descriptive in Nature
+
+#Advantages
+-Platform Independent
+-Supports Unicode
+-Data stored and transported using XML can be changed at any point of time
+-Completely compatible with Java
+-Simplifies data sharing between various platforms
+
+#Limitations
+-Verbose and Redundant compared to JSON
+-High storage and transportantion costs for large volumes of data
+-Doesnot support array
+-file sizes are usually very large due to its verbose nature
+
+Note:
+-->You can go to jsonformatter.org where you can minify and format your xml file.
